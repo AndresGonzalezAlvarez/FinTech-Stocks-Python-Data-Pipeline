@@ -16,10 +16,12 @@ This project serves as a comprehensive **data pipeline** designed for a startup 
 * **Modular Analytics**: Implemented a reusable `make_graph` function for scalable visualization of multiple stock tickers.
 
 ## 📊 Dashboard Preview
-> **Note**: Below is a visualization of the correlation between Stock Price and Revenue.
-> 
-![Stock Dashboard Preview](https://via.placeholder.com/800x400?text=Insert+Your+Tesla/GameStop+Graph+Screenshot+Here) 
-*(Tip: Replace this placeholder with your own screenshot saved in an `/images` folder)*.
+
+<p align="center">
+  <img src="./images/tesla_dashboard.png" width="800" title="Tesla Dashboard">
+</p>
+
+*Note: The chart above shows the historical correlation between Tesla's stock price and its quarterly revenue.*
 
 ## ⚙️ Installation & Deployment
 1.  **Clone the repository**:
