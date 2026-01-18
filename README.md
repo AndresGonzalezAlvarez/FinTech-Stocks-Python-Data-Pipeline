@@ -18,7 +18,7 @@ This project serves as a comprehensive **data pipeline** designed for a startup 
 ## 📊 Dashboard Preview
 
 <p align="center">
-  <img src="./images/tesla_dashboard.png" width="800" title="Tesla Dashboard">
+  <img src="images/tesla_dashboard.png" width="800" title="Tesla Dashboard">
 </p>
 
 *Note: The chart above shows the historical correlation between Tesla's stock price and its quarterly revenue.*
